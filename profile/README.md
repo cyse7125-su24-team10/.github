@@ -11,22 +11,22 @@ Retrieval Augmented Generation (RAG) is a powerful approach. Explore our project
 
 ## Repositories
 
-Here are the 17 repositories in our organization:
+1. [AWS INFRA](https://github.com/cyse7125-su24-team10/infra-aws)
+2. [LLM CVE](https://github.com/cyse7125-su24-team10/llm-cve)
+3. [AMI JENKINS](https://github.com/cyse7125-su24-team10/ami-jenkins)
+4. [K8S OPERATOR](https://github.com/cyse7125-su24-team10/cve-operator)
+5. [EKS AUTOSCALER](https://github.com/cyse7125-su24-team10/helm-eks-autoscaler)
+6. [INFRA JENKINS](https://github.com/organization/repo5)
+7. [CVE PROCESSOR](https://github.com/cyse7125-su24-team10/webpp-cve-processor)
+8. [CVE CONSUMER](https://github.com/cyse7125-su24-team10/webapp-cve-consumer)
 
-1. [Repo 1](https://github.com/organization/repo1)
-2. [Repo 2](https://github.com/organization/repo2)
-3. [Repo 3](https://github.com/organization/repo3)
-4. [Repo 4](https://github.com/organization/repo4)
-5. [Repo 5](https://github.com/organization/repo5)
-6. [Repo 6](https://github.com/organization/repo6)
-7. [Repo 7](https://github.com/organization/repo7)
-8. [Repo 8](https://github.com/organization/repo8)
-9. [Repo 9](https://github.com/organization/repo9)
-10. [Repo 10](https://github.com/organization/repo10)
-11. [Repo 11](https://github.com/organization/repo11)
-12. [Repo 12](https://github.com/organization/repo12)
-13. [Repo 13](https://github.com/organization/repo13)
-14. [Repo 14](https://github.com/organization/repo14)
-15. [Repo 15](https://github.com/organization/repo15)
-16. [Repo 16](https://github.com/organization/repo16)
-17. [Repo 17](https://github.com/organization/repo17)
+## Authors
+
+- [Vinay](https://github.com/vk-NEU7) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinaychelpuri/)
+- [Siddharth](https://github.com/siddharthdash1998) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dash-siddharth/)
+
+
+## Mentors
+
+- [Tejas Parikh](https://www.linkedin.com/in/tejassunilparikh/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
+- [Abhilash Gade](https://www.linkedin.com/in/abhilashgade/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
