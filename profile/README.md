@@ -1,12 +1,23 @@
 # LLaMaCVE
 
+![LLaMA](https://img.shields.io/badge/LLaMA-3.1-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-4B0082?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200.svg?style=for-the-badge&logo=Flyway&logoColor=white)
+![Kubernetes Operator](https://img.shields.io/badge/Kubernetes-Operator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
 ## How can Large Language Models (LLMs) be leveraged to meet your business needs?
 
 This is the central question our project aims to address. Large Language Models (LLMs) have the potential to revolutionize various aspects of business operations, from customer service to data analysis and decision-making processes. Our project demonstrates a powerful approach to harness this potential: Retrieval Augmented Generation (RAG).
 
 ### Key Highlights:
 - **LLaMA3.1 Integration**: We utilize the advanced LLaMA3.1 model for superior natural language processing capabilities.
-- **Self-Hosted on Kubernetes**: Our solution is self-hosted on **Kubernetes**, providing unparalleled control, scalability, and customization options.
+- **Self-Hosted on Kubernetes**: Our solution is hosted on **Kubernetes**, providing unparalleled control, scalability, and customization options.
 ### Project Demo
 Watch our project demonstration:
 
@@ -19,7 +30,6 @@ In our project, we've developed a CVE (Common Vulnerabilities and Exposures) RAG
 Key features of our application include:
 - Integration of LLaMA with **Pinecone** vector database for efficient information retrieval
 - Self-hosted solution on Kubernetes for enhanced control and customization
-- Continuous updates to the CVE knowledge base
 - Operators running hourly to ensure data freshness
 - Ability to query and analyze the latest vulnerability information
 
@@ -59,3 +69,4 @@ We invite you to explore our work and see how self-hosted LLMs, particularly LLa
 - [Tejas Parikh](https://www.linkedin.com/in/tejassunilparikh/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tejassunilparikh/)
 
 - [Abhilash Gade](https://www.linkedin.com/in/abhilashgade/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhilashgade/)
+
