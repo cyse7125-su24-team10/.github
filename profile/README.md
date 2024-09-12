@@ -6,7 +6,7 @@ This is the central question our project aims to address. Large Language Models 
 
 ### Key Highlights:
 - **LLaMA3.1 Integration**: We utilize the advanced LLaMA3.1 model for superior natural language processing capabilities.
-- **Self-Hosted on Kubernetes**: Our solution is self-hosted on Kubernetes, providing unparalleled control, scalability, and customization options.
+- **Self-Hosted on Kubernetes**: Our solution is self-hosted on **Kubernetes**, providing unparalleled control, scalability, and customization options.
 ### Project Demo
 Watch our project demonstration:
 
@@ -50,18 +50,12 @@ We invite you to explore our work and see how self-hosted LLMs, particularly LLa
 
 ## Contributors
 
-- [Vinay Chelpuri](https://github.com/vk-NEU7) 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinaychelpuri/)
+- [Vinay Chelpuri](https://github.com/vk-NEU7) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/vk-NEU7) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinaychelpuri/)
 
-- [Siddharth Dash](https://github.com/siddharthdash1998) 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dash-siddharth/)
+- [Siddharth Dash](https://github.com/siddharthdash1998) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/siddharthdash1998) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dash-siddharth/)
 
 ## Mentors
 
-- [Tejas Parikh](https://www.linkedin.com/in/tejassunilparikh/) 
-  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
+- [Tejas Parikh](https://www.linkedin.com/in/tejassunilparikh/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tejassunilparikh/)
 
-- [Abhilash Gade](https://www.linkedin.com/in/abhilashgade/) 
-  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
+- [Abhilash Gade](https://www.linkedin.com/in/abhilashgade/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhilashgade/)
