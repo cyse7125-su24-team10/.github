@@ -1,9 +1,31 @@
 # LLaMaCVE
 
-## How can Large Language Models (LLMs) be leveraged to meet your business needs? 
+## How can Large Language Models (LLMs) be leveraged to meet your business needs?
 
-Retrieval Augmented Generation (RAG) is a powerful approach. Explore our project, which has been built and deployed on Amazon EKS, adhering to DevOps practices with comprehensive CI/CD pipelines and Infrastructure as Code (IaC) using Terraform. Please take a look at the work we have done and leave a ⭐️ if you like our work.
+This is the central question our project aims to address. Large Language Models (LLMs) have the potential to revolutionize various aspects of business operations, from customer service to data analysis and decision-making processes. Our project demonstrates a powerful approach to harness this potential: Retrieval Augmented Generation (RAG).
 
+### Key Highlights:
+- **LLaMA3.1 Integration**: We utilize the advanced LLaMA3.1 model for superior natural language processing capabilities.
+- **Self-Hosted on Kubernetes**: Our solution is self-hosted on Kubernetes, providing unparalleled control, scalability, and customization options.
+### Project Demo
+Watch our project demonstration:
+
+[![LLaMaCVE Demo](https://img.youtube.com/vi/WlghN6UE7YA/0.jpg)](https://www.youtube.com/watch?v=WlghN6UE7YA)
+
+RAG combines the vast knowledge of LLMs with the ability to retrieve and incorporate specific, up-to-date information. This makes it particularly valuable for businesses that need to process and analyze large amounts of domain-specific data while leveraging the general capabilities of LLMs.
+
+In our project, we've developed a CVE (Common Vulnerabilities and Exposures) RAG application. This application integrates LLaMA3.1 with Pinecone vectors, which act as a knowledge base containing up-to-date CVE data. Our system is designed to provide the latest information on vulnerabilities and exposures, crucial for cybersecurity and risk management in businesses.
+
+Key features of our application include:
+- Integration of LLaMA with **Pinecone** vector database for efficient information retrieval
+- Self-hosted solution on Kubernetes for enhanced control and customization
+- Continuous updates to the CVE knowledge base
+- Operators running hourly to ensure data freshness
+- Ability to query and analyze the latest vulnerability information
+
+Our project, built and deployed on **Amazon EKS**, showcases how this RAG application can be implemented in a robust, scalable environment. We adhere to DevOps best practices, utilizing comprehensive **CI/CD** pipelines with **Jenkins** and Infrastructure as Code **(IaC)** using **Terraform**. This ensures that our solution is not only powerful but also maintainable and adaptable to changing business needs.
+
+We invite you to explore our work and see how self-hosted LLMs, particularly LLaMA3.1, can be practically applied to solve real-world business challenges, especially in the realm of cybersecurity and vulnerability management. If you find our project valuable, please consider leaving a ⭐️!
 
 ## Architecture Diagram
 
@@ -11,22 +33,35 @@ Retrieval Augmented Generation (RAG) is a powerful approach. Explore our project
 
 ## Repositories
 
-1. [AWS INFRA](https://github.com/cyse7125-su24-team10/infra-aws)
+1. [AWS Infrastructure](https://github.com/cyse7125-su24-team10/infra-aws)
 2. [LLM CVE](https://github.com/cyse7125-su24-team10/llm-cve)
-3. [AMI JENKINS](https://github.com/cyse7125-su24-team10/ami-jenkins)
-4. [K8S OPERATOR](https://github.com/cyse7125-su24-team10/cve-operator)
-5. [EKS AUTOSCALER](https://github.com/cyse7125-su24-team10/helm-eks-autoscaler)
-6. [INFRA JENKINS](https://github.com/organization/repo5)
-7. [CVE PROCESSOR](https://github.com/cyse7125-su24-team10/webpp-cve-processor)
-8. [CVE CONSUMER](https://github.com/cyse7125-su24-team10/webapp-cve-consumer)
+3. [Jenkins AMI](https://github.com/cyse7125-su24-team10/ami-jenkins)
+4. [Kubernetes Operator](https://github.com/cyse7125-su24-team10/cve-operator)
+5. [EKS Autoscaler](https://github.com/cyse7125-su24-team10/helm-eks-autoscaler)
+6. [Jenkins Infrastructure](https://github.com/cyse7125-su24-team10/infra-jenkins)
+7. [CVE Processor](https://github.com/cyse7125-su24-team10/webpp-cve-processor)
+8. [CVE Consumer](https://github.com/cyse7125-su24-team10/webapp-cve-consumer)
+9. [PineCone Loader](https://github.com/cyse7125-su24-team10/pinecone-loader)
+10. [DB CVE Processor](https://github.com/cyse7125-su24-team10/db-cve-processor)
+11. [Helm Chart: LLM CVE](https://github.com/cyse7125-su24-team10/helm-llm-cve)
+12. [Helm Chart: Kubernetes Operator](https://github.com/cyse7125-su24-team10/helm-k8s-operator)
+13. [Helm Chart: CVE Processor](https://github.com/cyse7125-su24-team10/helm-webapp-cve-processor)
+14. [Helm Chart: CVE Consumer](https://github.com/cyse7125-su24-team10/helm-webapp-cve-consumer)
 
-## Authors
+## Contributors
 
-- [Vinay](https://github.com/vk-NEU7) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinaychelpuri/)
-- [Siddharth](https://github.com/siddharthdash1998) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dash-siddharth/)
+- [Vinay Chelpuri](https://github.com/vk-NEU7) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinaychelpuri/)
 
+- [Siddharth Dash](https://github.com/siddharthdash1998) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dash-siddharth/)
 
 ## Mentors
 
-- [Tejas Parikh](https://www.linkedin.com/in/tejassunilparikh/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
-- [Abhilash Gade](https://www.linkedin.com/in/abhilashgade/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
+- [Tejas Parikh](https://www.linkedin.com/in/tejassunilparikh/) 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
+
+- [Abhilash Gade](https://www.linkedin.com/in/abhilashgade/) 
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)
