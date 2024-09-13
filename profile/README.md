@@ -16,8 +16,8 @@
 This is the central question our project aims to address. Large Language Models (LLMs) have the potential to revolutionize various aspects of business operations, from customer service to data analysis and decision-making processes. Our project demonstrates a powerful approach to harness this potential: Retrieval Augmented Generation (RAG).
 
 ### Key Highlights:
-- **LLaMA3.1 Integration**: We utilize the advanced LLaMA3.1 model for superior natural language processing capabilities.
-- **Self-Hosted on Kubernetes**: Our solution is hosted on **Kubernetes**, providing unparalleled control, scalability, and customization options.
+- **LLaMA3.1 Integration**: We utilize the advanced llama3.1 model for superior natural language processing capabilities.
+- **Self-Hosted on Kubernetes**: Our solution, along with the llama3.1 8-billion parameter model, is hosted on **Kubernetes**, providing unparalleled control, scalability, and customization options.
 ### Project Demo
 Watch our project demonstration:
 
@@ -25,17 +25,17 @@ Watch our project demonstration:
 
 RAG combines the vast knowledge of LLMs with the ability to retrieve and incorporate specific, up-to-date information. This makes it particularly valuable for businesses that need to process and analyze large amounts of domain-specific data while leveraging the general capabilities of LLMs.
 
-In our project, we've developed a CVE (Common Vulnerabilities and Exposures) RAG application. This application integrates LLaMA3.1 with Pinecone vectors, which act as a knowledge base containing up-to-date CVE data. Our system is designed to provide the latest information on vulnerabilities and exposures, crucial for cybersecurity and risk management in businesses.
+In our project, we've developed a CVE (Common Vulnerabilities and Exposures) RAG application. This application integrates llama3.1 with Pinecone vectors, which act as a knowledge base containing up-to-date CVE data. Our system is designed to provide the latest information on vulnerabilities and exposures, crucial for cybersecurity and risk management in businesses.
 
 Key features of our application include:
-- Integration of LLaMA with **Pinecone** vector database for efficient information retrieval
+- Integration of LLM with **Pinecone** vector database for efficient information retrieval
 - Self-hosted solution on Kubernetes for enhanced control and customization
 - Operators running hourly to ensure data freshness
 - Ability to query and analyze the latest vulnerability information
 
 Our project, built and deployed on **Amazon EKS**, showcases how this RAG application can be implemented in a robust, scalable environment. We adhere to DevOps best practices, utilizing comprehensive **CI/CD** pipelines with **Jenkins** and Infrastructure as Code **(IaC)** using **Terraform**. This ensures that our solution is not only powerful but also maintainable and adaptable to changing business needs.
 
-We invite you to explore our work and see how self-hosted LLMs, particularly LLaMA3.1, can be practically applied to solve real-world business challenges, especially in the realm of cybersecurity and vulnerability management. If you find our project valuable, please consider leaving a ⭐️!
+We invite you to explore our work and see how self-hosted LLMs, particularly llama3.1, can be practically applied to solve real-world business challenges, especially in the realm of cybersecurity and vulnerability management. If you find our project valuable, please consider leaving a ⭐️!
 
 ## Architecture Diagram
 
