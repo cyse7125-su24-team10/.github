@@ -43,6 +43,13 @@ We invite you to explore our work and see how self-hosted LLMs, particularly lla
 
 ![Architecture Diagram](https://github.com/cyse7125-su24-team10/.github/blob/main/WhatsApp%20Image%202024-08-16%20at%2020.12.01.jpeg)
 
+## Application Architecture
+![Application Architecture](https://github.com/cyse7125-su24-team10/.github/blob/main/1726163852714.jpeg)
+
+## AWS Orchestration & Observability Stack
+
+![AWS Orchestration](https://github.com/cyse7125-su24-team10/.github/blob/main/1726163852810.jpeg)
+
 ## Repositories
 
 1. [AWS Infrastructure](https://github.com/cyse7125-su24-team10/infra-aws)
